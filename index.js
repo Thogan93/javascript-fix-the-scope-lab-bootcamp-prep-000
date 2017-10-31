@@ -13,7 +13,6 @@ function yourAnimal() {
 yourAnimal();
 
 function add2(n) {
-  var n = 881;
   return n + 2;
 
 }
